@@ -9,6 +9,7 @@
 
 <body>
     <b>Romer Angelo Legaspi</b>
+    <b>Venedic Hodrial</b>
 </body>
 
 </html>
